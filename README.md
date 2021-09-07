@@ -1,2 +1,2 @@
 # LauraPortfolio
-My static Portfolio site on web
+My static Portfolio site on github online
